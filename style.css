@@ -5,6 +5,8 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1 0 1;
+    margin: 0;
+    padding: 0;
 }
 
 .header-container {
@@ -42,7 +44,7 @@ ul a {
     flex-direction: column;
     width: 100%;
     flex: 1;
-    margin: 0pxx;
+    margin: 0;
     padding: 0px;
 }
 
